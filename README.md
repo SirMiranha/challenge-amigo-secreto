@@ -116,6 +116,5 @@ function limpaAmigos() {
 
 ## Melhorias Futuras
 
-- Adicionar persistência de dados no local storage para manter a lista após recarregar a página.
 - Implementar validação para evitar nomes duplicados.
 - Exibir um histórico dos sorteios realizados.
